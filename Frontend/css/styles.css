@@ -63,3 +63,16 @@ input[class="form-select"]:focus {
 /* .nav-item {
   text-align: center;
 } */
+.list-group-item {
+  margin: 4px;
+  /* border-radius: 10px; */
+  background: none;
+  border: none;
+}
+.card-body {
+  height: 60vh;
+  width: 50vw;
+  background-image: url("img/story1.jpg");
+  background-size: cover;
+  background-position: center;
+}
